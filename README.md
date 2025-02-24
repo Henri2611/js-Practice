@@ -1,15 +1,17 @@
-# js-callBacks
+# JS Practice 🚀
 
-This repository is dedicated to practicing and understanding JavaScript callback functions. It contains various examples and exercises to help improve my grasp of asynchronous programming and function handling in JavaScript.
+Welcome to **JS Practice**! This repository contains a collection of basic JavaScript practice questions covering fundamental topics. It is designed to help beginners strengthen their understanding of JavaScript through hands-on exercises.
 
-## 📌 About
-- Covers the basics of callbacks.
-- Includes progressively challenging exercises.
-- Demonstrates synchronous vs. asynchronous execution.
-- Explores real-world use cases of callbacks.
+## 📌 Topics Covered
+- Variables and Data Types
+- Operators and Expressions
+- Conditional Statements (if-else, switch)
+- Loops (for, while, do-while)
+- Functions and Scope
+- Arrays and Objects
+- String and Array Methods
+- JavaScript Events and DOM Basics
+- Promises and Callbacks (Basic Introduction)
 
-## 🛠 Topics Covered
-- Defining and using callback functions
-- Passing functions as arguments
-- Handling asynchronous operations with callbacks
-- Common callback patterns (e.g., callback hell and solutions
+
+
