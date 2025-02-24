@@ -123,16 +123,16 @@
 // }
 
 //Object Destructuring
-const person = {
-  name: "John",
-  age: 30,
-  city: "London",
-};
+// const person = {
+//   name: "John",
+//   age: 30,
+//   city: "London",
+// };
 
-const { name, age, city } = person;
-console.log(name);
-console.log(age);
-console.log(city);
+// const { name, age, city } = person;
+// console.log(name);
+// console.log(age);
+// console.log(city);
 
 
 
@@ -147,15 +147,3 @@ console.log(city);
 // const person2  = {...person};
 // console.log(person2);
 
-//Arrays
-// let fruits = ["apple", "banana", "mango"];
-// console.log(fruits[0]);
-// console.log((fruits[1] = "orange"));
-// console.log(fruits.push("grapes")); //adds new element lastly
-// console.log(fruits);
-// //array methods
-// console.log(fruits.pop()); //removes the last element
-// console.log(fruits.unshift("kiwi")); //adds an element at the beginning
-// console.log(fruits);
-// console.log(fruits.indexOf("mango")); //find the index of mango
-// for (let i = 0; i < fruits.length; i++) {}
