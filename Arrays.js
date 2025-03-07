@@ -26,3 +26,9 @@
 // };
 
 // console.log(longestWord(["cat", "elephant", "dog", "giraffe"]));
+
+// const names = ["Bob", "Alice", "Charlie", "Dave"];
+// names.sort();
+// console.log(names);
+// const newArr = names.map(value => `Hello, ${value}`);
+// console.log(newArr);
