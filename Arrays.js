@@ -14,3 +14,15 @@
 // console.log(numbers);
 // numbers.unshift(25);
 // console.log(numbers);
+
+// const longestWord = (myArr) => {
+//     let max = myArr[0]; 
+//     myArr.forEach((value) => {
+//         if (value.length > max.length) {
+//             max = value; 
+//         }
+//     });
+//     return max;
+// };
+
+// console.log(longestWord(["cat", "elephant", "dog", "giraffe"]));
