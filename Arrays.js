@@ -44,3 +44,17 @@
 // newArr.forEach((value, index) =>{
 //     console.log(`Index ${index}: ${value}`);
 // })
+
+
+// const findOccurrences = (myArr, target) =>{
+//     let results = [];
+//     myArr.forEach((value, index) => {
+//         if(value === target){
+//             results.push(index);
+//         }
+//     })
+//     return results;
+    
+    
+// }
+// console.log(findOccurrences([5, 6, 7], 8))
