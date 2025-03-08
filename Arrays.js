@@ -32,3 +32,15 @@
 // console.log(names);
 // const newArr = names.map(value => `Hello, ${value}`);
 // console.log(newArr);
+
+// const numbers = [5, 2, 9, 1, 7, 6, 3];
+
+// const newArr = numbers.filter(value => value >= 5);
+// console.log("Filtered:", newArr)
+
+// newArr.sort((a,b) => b-a);
+// console.log("Sorted:", newArr);
+
+// newArr.forEach((value, index) =>{
+//     console.log(`Index ${index}: ${value}`);
+// })
